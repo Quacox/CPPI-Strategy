@@ -1,2 +1,3 @@
-# CPPI-Strategy
-CPPI Strategy on multiple assets
+# CPPI/TPPI-Strategy
+Hello, I didn't finish this subject yet, I found other multiple subject on pricing and differents hedging strategy that I want to explore further before continuing and finishing this exciting strategy.
+This is a TPPI Strategy on multiple assets for a client who plans to invest US$10 million, with a positive medium-term outlook (1-2 years) on AI, Japanese equities, gold and copper. He wants a structured product offering a higher return than deposits, aiming for an expected return of 12% or more, with 100% capital protection but a maximum acceptable capital loss of 10%. If the underlying asset does not rise as expected, wants capital preservation even in the event of a slight fall.
